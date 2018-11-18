@@ -12,7 +12,7 @@ items:
       type: ImageChange
     source:
       git:
-        uri: https://github.com/43books/ch09-apps.git
+        uri: https://github.com/sspysong/ch09-apps.git
         ref: dev 
       type: Git
     strategy:

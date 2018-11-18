@@ -16,7 +16,7 @@ items:
       type: ImageChange
     source:
       git:
-        uri: https://github.com/43books/ch09-emp.git
+        uri: https://github.com/sspysong/ch09-apps.git
         ref: master
       type: Git
     strategy:
