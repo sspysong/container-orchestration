@@ -8,7 +8,7 @@ spec:
     type: ImageChange
   source:
     git:
-      uri: https://github.com/43books/ch09-builderimage.git
+      uri: https://github.com/sspysong/ch09-builderimage.git
     type: Git
   strategy:
     type: Docker
